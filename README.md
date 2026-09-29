@@ -53,15 +53,14 @@ Check the installation:
 python --version
 ```
 
-(On some systems, use `python3 --version`.)
 
 ### 2. Get the project
 
 Either download the file directly, or clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/Aadrika-18/Currency_Exchanger
+cd  Currency_Exchanger
 ```
 
 Make sure the program file is named `currency_converter.py`.
