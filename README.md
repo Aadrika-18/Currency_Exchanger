@@ -73,8 +73,6 @@ Open a terminal in the project folder and run:
 python currency_converter.py
 ```
 
-(On some systems, use `python3 currency_converter.py`.)
-
 ### 4. Use the program
 
 1. Register with a username and password.
